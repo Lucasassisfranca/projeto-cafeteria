@@ -1,19 +1,23 @@
-☕ Projeto Cafeteria
+# Projeto Cafeteria
 
-Site de cafeteria desenvolvido com HTML e CSS, criado para praticar a construção de páginas estáticas e o uso de elementos visuais que transmitam conforto e estilo.
+## Descrição
+Este projeto é um site que simula uma cafeteria, criado com HTML, CSS e JavaScript. O objetivo foi treinar a integração de **interatividade com JavaScript** junto com a estrutura e o estilo do site. Nele pratiquei menus interativos, botões dinâmicos, efeitos visuais e organização de arquivos para projetos web.
 
-O projeto conta com seções como Home, O que faz nosso café especial e Depoimentos de clientes, apresentando um layout agradável e acolhedor.
+## Tecnologias utilizadas
+- HTML5
+- CSS3
+- JavaScript
 
-🧠 Tecnologias utilizadas
+## Acesso ao projeto
+Você pode acessar o site clicando no link abaixo:
 
-HTML
+👉 [Clique aqui para abrir o Projeto Cafeteria](https://lucasassisfranca.github.io/projeto-cafeteria/)
 
-CSS
+## O que aprendi
+- Estruturação de páginas com HTML
+- Estilização com CSS
+- Criação de interatividade usando JavaScript
+- Manipulação de eventos e DOM
+- Organização de arquivos para projetos web
+- Integração de HTML, CSS e JS em um mesmo projeto
 
-💡 Objetivo
-
-Aprender e praticar a estruturação de páginas, o posicionamento de elementos e a estilização com foco em design e experiência do usuário.
-
-🌐 Acesse o projeto
-
-👉 https://lucasassisfranca.github.io/projeto-cafeteria/
